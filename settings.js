@@ -9,9 +9,9 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ["6282113821188"] // ['628','628'] 2 owner atau lebih
-global.author = 'Nazedev'
-global.botname = 'Hitori Bot'
+global.owner = ["6283192953573"] // ['628','628'] 2 owner atau lebih
+global.author = 'rizz'
+global.botname = 'Kayrizz'
 global.packname = 'Bot WhatsApp'
 global.timezone = 'Asia/Jakarta' // Ganti pakai command .settimezone
 global.locale = 'en' // Ganti pakai command .setlocale
@@ -32,9 +32,9 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/DPUC3uuqYZI9FNLdgtMp4n?mode=gi_t',
+	yt: 'si rizz ga punya yt jir',
+	gh: 'rizz males buat githubnya wkkw',
+	gc: 'https://chat.whatsapp.com,
 	ch: '120363250409960161@newsletter',
 }
 
@@ -52,15 +52,15 @@ global.money = {
 
 global.mess = {
 	key: "Apikey limit! Silahkan Upgrade: https://naze.biz.id",
-	owner: "Khusus Owner!",
-	admin: "Khusus Admin!",
+	owner: "Fitur Khusus aa rizz (owner)",
+	admin: "Fitur Khusus Admin!",
 	botAdmin: "Bot harus Admin!",
 	onWa: "Nomor tersebut tidak terdaftar di WhatsApp!",
-	group: "Khusus Grup!",
-	private: "Khusus Private Chat!",
+	group: "Fitur Khusus Grup!",
+	private: "Fitur Khusus Private Chat!",
 	quoted: "Reply pesannya!",
-	limit: "Limit habis!",
-	prem: "Khusus Premium!",
+	limit: "Limitnya udah abis, minta ke aa rizz sana",
+	prem: "Titur Khusus Premium!",
 	text: "Masukkan teksnya!",
 	media: "Kirim medianya!",
 	wait: "Proses...",
